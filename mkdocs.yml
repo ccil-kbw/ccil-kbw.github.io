@@ -1,0 +1,25 @@
+site_name: Masjid's Droid
+site_url: https://ccil-kbw.github.io
+nav:
+  - Home: index.md
+  - Website: website.md
+  - "Masjid's Droid":
+    - "Introduction": droid/intro.md
+    - Features:
+      - "Discord Bot": droid/discord_bot.md
+      - "Dars Recorder": droid/dars_recorder.md
+      - "Iqama CLI": droid/iqama_cli.md
+    - Roadmap: droid/roadmap.md
+theme:
+  icon:
+    repo: fontawesome/brands/github 
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: red
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+repo_url: https://github.com/ccil-kbw/robot
+repo_name: Masjid's Robot
