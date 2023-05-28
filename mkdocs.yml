@@ -2,7 +2,7 @@ site_name: Masjid's Droid
 site_url: https://ccil-kbw.github.io
 nav:
   - Home: index.md
-  - Website: website.md
+  - Website: website_docs.md
   - "Masjid's Droid":
     - "Introduction": droid/intro.md
     - Features:
