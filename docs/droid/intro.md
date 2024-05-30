@@ -1,4 +1,35 @@
+<style>
+.md-content .md-typeset h1 { display: none; }
+</style>
 
+<p>
+    <img src="/assets/header-droid-0.png" alt="KBW Blueprint"/>
+</p>
+<p align="center">
+    <em>The Droid was born in the basement of KBW. It was developed to serve the Ummah.
+        <br><br>Feel free to Copy and Clone this Droid. Contributing back to the main project will be greatly appreciated but absolutely optional.
+        <br><br>Everything we do is for the sake of Allah only.
+    </em>
+</p>
+
+<p align="center">
+<a href="https://github.com/ccil-kbw/robot" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/ccil-kbw/robot/master?style=flat-square" alt="Latest Commit">
+</a>
+<a href="https://github.com/ccil-kbw/robot/blob/master/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/ccil-kbw/robot" alt="Test">
+</a>
+<a href="https://github.com/ccil-kbw/robot/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/ccil-kbw/robot" alt="Coverage">
+</a>
+<a href="https://github.com/ccil-kbw/robot/actions" target="_blank">
+    <img src="https://github.com/ccil-kbw/robot/actions/workflows/publish.yml/badge.svg" alt="Package version">
+</a>
+</p>
+
+---
+
+_Features Documentation is outdated, please refer to the main repository for the latest documentation. We will do our best to update this._
 ## Masjid's Droid - Introduction
 
 The Masjid's Droid is the Application used at Khaled Ben Walid to serve the needs of the Administration. All features are Open to be used by anyone,

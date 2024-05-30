@@ -1,3 +1,5 @@
+_This is an outdated documentation of the Website, we have migrated to Wordpress, more to come._
+
 ## Introduction
 
 Our Masjid's Website is Open Source and is a Fork of the [Chirpy Jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy#readme), it is currently deployed on GitHub Pages to have free hosting, but overall it's simply a Frontend Static page so can be deployed anywhere.

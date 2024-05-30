@@ -1,9 +1,42 @@
-# Masjid's Droid Documentation
+<style>
+.md-content .md-typeset h1 { display: none; }
+</style>
 
-This page serves as a centralized place to document all tools developed by the Khaled Ben Walid team.
+<p>
+    <img src="./assets/header-0.png" alt="KBW Blueprint"/>
+</p>
+<p align="center">
+    <em>KBW Tech is dedicated to write the simplest solutions for the sake of Allah.</em>
+</p>
 
-For more information please visit [github organisation](https://github.com/ccil-kbw)
+<p align="center">
+<a href="https://github.com/ccil-kbw/robot" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/ccil-kbw/robot/master?style=flat-square" alt="Latest Commit">
+</a>
+<a href="https://github.com/ccil-kbw/robot/blob/master/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/ccil-kbw/robot" alt="Test">
+</a>
+<a href="https://github.com/ccil-kbw/robot/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/ccil-kbw/robot" alt="Coverage">
+</a>
+<a href="https://github.com/ccil-kbw/robot/actions" target="_blank">
+    <img src="https://github.com/ccil-kbw/robot/actions/workflows/publish.yml/badge.svg" alt="Package version">
+</a>
+</p>
 
-Our IT organization does its best to keep all development as transparent as possible. Our main focus is the privacy and the security of our users. All code can be copied and used but can't be sold commercially.
+---
 
-Masjid's Droid was original written by [@serafdev](https://twitter.com/serafdev) to serve the needs of the beloved community of [Khaled Ben Walid](https://ccil-kbw.com) but is intended to benefit the whole beloved Ummah, East to West. Feel free to give us a star on GitHub, and leave us a comment there!
+**Documentation**: <a href="https://ccil-kbw.github.io" target="_blank">https://ccil-kbw.github.io</a>
+
+**Source Code**: <a href="https://github.com/ccil-kbw/robot" target="_blank">https://github.com/ccil-kbw/robot</a>
+
+---
+
+_**Qu'ran and Sunnah**_: We aim to make all our projects compliant with the Qu'ran and Sunnah.
+
+_**Simplicity**_: We aim to make all our projects easy to manage and maintain, even for non-technical users.
+
+_**Open Source**_: We aim to make all our projects open source to help other communities and developers.
+
+_**Community**_: We aim to make all our projects community-driven, so that the community can help us improve our
+projects.
